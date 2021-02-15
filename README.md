@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Odenrir
+- 👀 I’m interested in Machine Learning, Optimization algorothms and coding in C++ and Python
+- 🌱 I’m currently learning ...
+- 💞️ I’m looking to collaborate on any project related to Machine Learning or Genetic Algorithms
+- 📫 How to reach me (argenis_aroche@outlook.com)
